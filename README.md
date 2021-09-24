@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A software developer that creates discord bots and interactive web apps</h3>
+<h3 align="center">A software developer that creates discord bots and interactive web apps, currently working as full stack developer</h3>
 
 - 🔭 I’m currently working on:
   -  [April Bot](https://aprilbot.me/) A Discord bot that gives you the tools to grow your server and your community, create personalized content and images with your unique touch.
