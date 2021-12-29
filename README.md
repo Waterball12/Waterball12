@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on:
   -  [April Bot](https://aprilbot.me/) A Discord bot that gives you the tools to grow your server and your community, create personalized content and images with your unique touch.
   - [Allegro quiz](https://github.com/allegro-quiz/allegro-quiz-app) A scalable quiz app made using React Native and ASP.NET
-  - [Bethel new life](https://bethelnewlife.co.uk/) Website for bethle new life church
+  - [Bethel new life](https://bethelnewlife.co.uk/) Website for bethel new life church
   - [Eagle caribbean takeway](https://eagle-takeaway.netlify.app/) Website for Eagle caribbean takeaway shop
 
 
