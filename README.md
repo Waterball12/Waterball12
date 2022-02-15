@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer that creates interactive web apps, currently working as full stack developer</h3>
 
 - 🔭 I’m currently working on:
-  - Business Cash App 
+  - Cash App 
   - Datalake explorer
   - Business internal analytics tools and data visualization/aggregation 
   -  [April Bot](https://aprilbot.me/) A Discord bot that gives you the tools to grow your server and your community, create personalized content and images with your unique touch.
