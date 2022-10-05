@@ -2,13 +2,12 @@
 <h3 align="center">A software engineer that creates interactive web apps, currently working as full stack developer</h3>
 
 - 🔭 I’m currently working on:
+  - SSO Integration
   - Cash App 
   - Datalake explorer
   - Business internal analytics tools and data visualization/aggregation 
   -  [April Bot](https://aprilbot.me/) A Discord bot that gives you the tools to grow your server and your community, create personalized content and images with your unique touch.
-  - [Allegro quiz](https://github.com/allegro-quiz/allegro-quiz-app) A scalable quiz app made using React Native and ASP.NET
   - [Bethel new life](https://bethelnewlife.co.uk/) Website for bethel new life church
-  - [Eagle caribbean takeway](https://eagle-takeaway.netlify.app/) Website for Eagle caribbean takeaway shop
 
 
 - 🌱 I’m currently learning 
